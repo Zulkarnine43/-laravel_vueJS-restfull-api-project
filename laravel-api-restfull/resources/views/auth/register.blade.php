@@ -62,7 +62,7 @@
                 <a class="small" href="{{ route('password.request') }}">Forgot Password?</a>
               </div>
               <div class="text-center">
-                <a class="small" href="{{route('login_form')}}">Already have an account? Login!</a>
+              
               </div>
             </div>
           </div>
